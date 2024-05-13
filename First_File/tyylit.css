@@ -1,0 +1,180 @@
+h1{
+    text-align: center;
+}
+footer{
+    position: fixed;
+    bottom: 0;
+    left: 550px;
+}
+h6{
+    position: fixed;
+    right: 300px;
+}
+.one{
+    background-image: url(woods1.PNG);
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0;
+    text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue
+}
+.two{
+  background-color: green;
+  color: orange;
+}
+.three{
+  color: red;
+}
+.four{
+  background-image: url(map6.PNG);
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: 0;
+  text-shadow: 2px 2px 4px #000000;
+}
+.five{
+  background-image: url(soil6.PNG);
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: 0;
+}
+.six{
+  background-image: url(nightwoods4.PNG);
+}
+.dropdown{
+  position: fixed;
+  bottom: 0;
+  right: 0;
+}
+.seven{
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  background-color: rgb(51, 50, 50);
+  color: grey;
+}
+.nine{
+  color: red;
+}
+
+
+
+div.gallery {
+  margin: 5px;
+  border: 1px solid blue;
+  float: left;
+  width: 195px;
+}
+
+div.gallery:hover {
+  border: 1px solid blue;
+}
+
+div.gallery img {
+  width: 100%;
+  height: 200px;
+}
+
+div.desc {
+  padding: 15px;
+  text-align: center;
+  color: red;
+}
+
+
+
+
+div.ten {
+  margin: 5px;
+  border: 1px solid blue;
+  float: left;
+  width: 195px;
+}
+
+div.ten:hover {
+  border: 1px solid blue;
+}
+
+div.ten img {
+  width: 100%;
+  height: 200px;
+}
+
+div.desc {
+  padding: 15px;
+  text-align: center;
+  color: red;
+}
+
+
+div.eight {
+  margin: 5px;
+  border: 1px solid blue;
+  float: left;
+  width: 195px;
+}
+
+div.eight:hover {
+  border: 1px solid blue;
+}
+
+div.eight img {
+  width: 100%;
+  height: 200px;
+}
+
+div.desc {
+  padding: 15px;
+  text-align: center;
+  color: red;
+}
+
+.eleven{
+  position: fixed;
+  right: 0;
+  top: 100px;
+  color: red;
+}
+
+
+
+div.twelve {
+  margin: 5px;
+  border: 1px solid red;
+  float: left;
+  width: 500px;
+}
+
+div.twelve:hover {
+  border: 1px solid orange;
+}
+
+div.twelve img {
+  width: 500px;
+  height: 200px;
+}
+
+div.desc {
+  padding: 15px;
+  text-align: center;
+  color: red;
+  background-color: white;
+}
+
+.thirteen{
+  float: right;
+  color: red;
+}
+.fourteen{
+  color: blueviolet;
+}
+.fifteen{
+  color: red;
+  width: 500px;
+  background-color: black;
+}
